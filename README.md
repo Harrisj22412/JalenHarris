@@ -1,4 +1,5 @@
-# JalenHarris
+# 🏄‍♂️ Jalen Harris
+
 
 I'm an dmv full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
@@ -34,7 +35,7 @@ I'm an dmv full-stack developer building my version of the digital world one ste
  ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Harrisj22412&show_icons=true&theme=gruvbox)
 
  <details>
-  <h3> Jays Coding Journey </h3>
+  <summary><h3> 👨‍💻 Jays Coding Journey </h3></summary>
   My journey to becoming a self-taught engineer has been driven by a passion for technology and a commitment to continuous learning. I started by gaining foundational skills and insights through hands-on experience and self-directed study. My background includes working at McDonald's, where I honed my problem-solving and multitasking abilities, which have been invaluable in my engineering journey.
 
 Determined to break into the tech industry, I took a proactive approach by exploring various programming languages and technologies on my own. This self-motivated learning process included completing online courses, working on personal projects, and staying current with industry trends. My dedication to self-improvement and practical application has equipped me with a robust understanding of software development, problem-solving techniques, and the latest technological advancements.
