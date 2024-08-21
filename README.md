@@ -32,3 +32,11 @@ I'm an dmv full-stack developer building my version of the digital world one ste
 
  ### Stats
  ![Forrest's Github stats](https://github-readme-stats.vercel.app/api?username=Harrisj22412&show_icons=true&theme=gruvbox)
+
+ <details>
+  <summary><h3> Jays Coding Journey </h3>></summary>
+  My journey to becoming a self-taught engineer has been driven by a passion for technology and a commitment to continuous learning. I started by gaining foundational skills and insights through hands-on experience and self-directed study. My background includes working at McDonald's, where I honed my problem-solving and multitasking abilities, which have been invaluable in my engineering journey.
+
+Determined to break into the tech industry, I took a proactive approach by exploring various programming languages and technologies on my own. This self-motivated learning process included completing online courses, working on personal projects, and staying current with industry trends. My dedication to self-improvement and practical application has equipped me with a robust understanding of software development, problem-solving techniques, and the latest technological advancements.
+
+As I progressed, I applied my knowledge to real-world scenarios, further solidifying my skills and confidence. My journey reflects a blend of perseverance, self-discipline, and a genuine enthusiasm for engineering. Today, I am well-prepared to contribute effectively in an engineering role, leveraging my unique experiences and self-taught expertise to drive innovative solutions. </details>
